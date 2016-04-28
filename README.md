@@ -1,2 +1,2 @@
-# tritechsc.github.io
-Tri-TGech Skills Center Github.com web page.
+# BrendonSkiba.github.io
+Brendon Skiba's Github.com web page.
